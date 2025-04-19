@@ -1,0 +1,5 @@
+{
+    "max_files_per_second": 100,
+    "suspicious_cpu_threshold": 70,
+    "alert_message": "Ransomware detected!"
+  }
